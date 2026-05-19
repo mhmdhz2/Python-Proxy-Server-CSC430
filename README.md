@@ -176,6 +176,16 @@ python test_proxy.py
 | Cache not persisting | Check write permissions on `cache_store/` directory |
 
 ---
+## Screenshots
+
+### Proxy Server Running
+![Proxy Running](screenshots/proxy_running.png)
+
+### Blacklist / HTTPS Feature
+![Blacklist Feature](screenshots/blacklist_feature.png)
+
+### Cache System
+![Cache Hit](screenshots/cache_hit.png)
 
 ## 👥 Team Members & Contributions
 
