@@ -1,0 +1,9 @@
+# requirements.txt — Python dependencies for the Caching Proxy Server
+# Install with: pip install -r requirements.txt
+
+# Admin dashboard (optional but recommended)
+flask>=3.0.0
+
+# Core Python stdlib modules used (no pip install needed):
+#   socket, threading, select, hashlib, json, logging,
+#   collections, dataclasses, re, os, time, signal, argparse

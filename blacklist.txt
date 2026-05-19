@@ -1,0 +1,11 @@
+# blacklist.txt — Blocked domains and IPs
+# Lines starting with # are comments.
+# Supports: exact domain, .suffix, *.suffix, CIDR ranges
+#
+# Examples:
+ads.example.com
+doubleclick.net
+malware-site.com
+tracker.example.org
+# Example IP block:
+# 192.168.100.0/24

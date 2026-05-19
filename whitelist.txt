@@ -1,0 +1,11 @@
+# whitelist.txt — Allowed domains (enforced only when WHITELIST_ENABLED = True in config.py)
+# Lines starting with # are comments.
+#
+# When whitelist mode is active, ALL domains not listed here are blocked.
+#
+# Examples:
+google.com
+.google.com
+wikipedia.org
+github.com
+stackoverflow.com
