@@ -1,7 +1,8 @@
 # 🛡 Caching Proxy Server
 ### CSC 430 — Computer Networks | Lebanese American University
 
-A production-quality, multi-threaded HTTP/HTTPS caching proxy server built entirely with Python sockets, featuring an admin dashboard, LRU cache, blacklist/whitelist filtering, and rate limiting.
+A multithreaded HTTP/HTTPS caching proxy server
+Built using Python socket programming
 
 ---
 
@@ -192,7 +193,7 @@ python test_proxy.py
 | Member | Contributions |
 |---|---|
 | **Hamza** | `config.py`, `request_parser.py`, `cache.py`, `utils.py`, unit tests |
-| **Ali** | `proxy_server.py`, `filters.py`, `logger.py`, integration tests, HTTPS tunnel |
+| **Mohamad** | `proxy_server.py`, `filters.py`, `logger.py`, integration tests, HTTPS tunnel |
 | **Both** | `main.py`, `dashboard.py`, report, README |
 
 ---
