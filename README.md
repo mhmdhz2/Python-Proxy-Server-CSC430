@@ -182,10 +182,10 @@ python test_proxy.py
 ![Proxy Running](screenshots/processrunning.png)
 
 ### Blacklist / HTTPS Feature
-![Blacklist Feature](screenshots/blacklist.png)
+![Blacklist Feature](screenshots/blacklistpic.png)
 
 ### Cache System
-![Cache Hit](screenshots/cachehit.png)
+![Cache Hit](screenshots/cachehitpic.png)
 
 ## 👥 Team Members & Contributions
 
