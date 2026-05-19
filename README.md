@@ -179,13 +179,13 @@ python test_proxy.py
 ## Screenshots
 
 ### Proxy Server Running
-![Proxy Running](screenshots/proxy_running.png)
+![Proxy Running](screenshots/processrunning.png)
 
 ### Blacklist / HTTPS Feature
-![Blacklist Feature](screenshots/blacklist_feature.png)
+![Blacklist Feature](screenshots/blacklist.png)
 
 ### Cache System
-![Cache Hit](screenshots/cache_hit.png)
+![Cache Hit](screenshots/cachehit.png)
 
 ## 👥 Team Members & Contributions
 
